@@ -4,7 +4,7 @@
 <p align=left>I'm studying <strong>Computer Engineering</strong>.</p>
 <p align="left">🚀 Skills: <strong>HTML5, CSS3, Bootstrap and C.</strong></p>
 <p align="left">🌈 Currently studying: <strong>JavaScript and Java.</strong></p>
-<p align="left">💻 Tools: <strong>Visual Studio Code, DevC++, Git e GitHub.</strong></p>
+<p align="left">💻 Tools: <strong>Visual Studio Code, DevC++, Git and GitHub.</strong></p>
 <p align="left">💌 Social networks: ⤵️</p>
 
 <p align="left">
