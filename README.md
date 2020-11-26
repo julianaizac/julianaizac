@@ -15,8 +15,3 @@
   <a href="https://www.facebook.com/julianaizac"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook">
   </a>
 </p>
-<br>
-<p align="center">  
-  <a href="https://github.com/julianaizac"><img src="https://github-readme-stats.vercel.app/api?username=julianaizac&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="julianaizac"/></a>
-  <a href="https://github.com/julianaizac"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianaizac&layout=compact&theme=dracula"/></a>
-</p>
