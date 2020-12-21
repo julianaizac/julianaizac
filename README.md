@@ -1,4 +1,4 @@
-<img src="./images/notebook.png" width="400px" align="right" alt="icon-notebook">
+<img src="./images/computador.png" width="400px" align="right">
 
 <h2 align="left">Hi, I'm Juliana Izac 👋🏽</h1>
 <p align=left>I'm studying <strong>Computer Engineering</strong>.</p>
