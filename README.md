@@ -3,7 +3,7 @@
 <h2 align="left">Hi, I'm Juliana Izac 👋🏽</h1>
 <p align=left>I'm studying <strong>Computer Engineering</strong>.</p>
 <p align="left">🚀 Skills: <strong>HTML, CSS, Bootstrap and C.</strong></p>
-<p align="left">🌈 Currently studying: <strong>C#, Java and JavaScript.</strong></p>
+<p align="left">🌈 Currently studying: <strong>Java and JavaScript.</strong></p>
 <p align="left">💻 Tools: <strong>Visual Studio Code, Git and GitHub.</strong></p>
 <p align="left">💌 Social networks: ⤵️</p>
 
