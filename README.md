@@ -7,10 +7,12 @@
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white" alt="Sass"/>
+  <img src="https://img.shields.io/badge/-Javascript-F7DF1E?style=flat&logo=javascript&logoColor=white" alt="Javascript">
   <img src="https://img.shields.io/badge/-Angular-E23237?style=flat&logo=angular&logoColor=white" alt="Angular"/>
   
   <img src="https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white" alt="Java"/>
   <img src="https://img.shields.io/badge/-Spring Boot-6DB33F?style=flat&logo=spring&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/-C-A8B9CC?style=flat&logo=c&logoColor=white" alt="C">
   
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/-VSCode-007ACC?style=&logo=visual-studio-code&logoColor=white" alt="Visual Studio Code" />
