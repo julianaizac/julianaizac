@@ -1,8 +1,8 @@
-<img src=".github/computer.png" width="450px" align="right" alt="Computador">
+<img src=".github/computer.png" width="400px" align="right" alt="Computador">
 
 <h2 align="left">Hi, I'm Juliana Izac 👋🏽</h1>
 <p align=left>I'm a <strong>Computer Engineering</strong> student</p>
-<p align="left">🚀 Skills:</p>
+<p align="left">🚀 Skills: ⤵️</p>
 <p>
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3"/>
@@ -19,8 +19,5 @@
   </a>
   <a href="https://www.linkedin.com/in/julianaizac" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://www.instagram.com/juizac" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=&logo=instagram&logoColor=white" alt="Instagram">
   </a>
 </p>
