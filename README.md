@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
-
+<br><br>
 <div align="center">
   <a href="https://github.com/julianaizac">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=julianaizac&layout=compact&langs_count=7&theme=dracula"/>
